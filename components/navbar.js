@@ -89,6 +89,18 @@ const Navbar = props => {
             <IoLogoGithub />
             Source
           </LinkItem>
+          <LinkItem
+            target="_blank"
+            href="https://github.com/craftzdog/craftzdog-homepage"
+            path={path}
+            display="inline-flex"
+            alignItems="center"
+            style={{ gap: 4 }}
+            pl={2}
+          >
+            <IoLogoGithub />
+            craftzdog
+          </LinkItem>
         </Stack>
 
         <Box flex={1} align="right">
