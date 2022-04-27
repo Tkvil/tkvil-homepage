@@ -76,7 +76,7 @@ const Home = () => (
         </Heading>
         <Paragraph>
           Tkvil is a freelance and a full-stack developer based in Spain. He has a 
-          great passion for configuring and building gamer servers (CS:GO, FiveM) and
+          great passion for configuring and building game servers (CS:GO, FiveM) and
           solving real-life problems with code. When not online, he loves to take the
           car and drive.
         </Paragraph>
